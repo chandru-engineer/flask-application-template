@@ -1,0 +1,6 @@
+2023-04-05 12:44:16,872 INFO APIs Thread-2 viewsets.py hello : This is an info message
+2023-04-05 12:44:16,873 WARNING APIs Thread-2 viewsets.py hello : This is a warning message
+2023-04-05 12:44:16,874 ERROR APIs Thread-2 viewsets.py hello : This is an error message
+2023-04-05 12:52:23,716 INFO APIs Thread-2 viewsets.py hello : This is an info message
+2023-04-05 12:52:23,718 WARNING APIs Thread-2 viewsets.py hello : This is a warning message
+2023-04-05 12:52:23,718 ERROR APIs Thread-2 viewsets.py hello : This is an error message
